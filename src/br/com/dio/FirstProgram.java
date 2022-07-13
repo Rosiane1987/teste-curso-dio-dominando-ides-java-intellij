@@ -6,7 +6,7 @@ public class FirstProgram {
     public static void main(String[] args) {
         Gato gato = new Gato();
 
-        Livro livro1 = new Livro("O problema dos 3 corps", 300);
+        Livro livro1 = new Livro("O problema dos 3 corps" , 300);
 
         System.out.println(livro1);
 
